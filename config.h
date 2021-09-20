@@ -15,7 +15,7 @@ static const Block blocks[] = {
 	/* {"",	"sb-price btc Bitcoin 💰",				9000,	21}, */
 	{"",	"sb-torrent",	20,	7},
 	{"",	"sb-memory",	10,	14},
-	{"",	"sb-cpu",		10,	18},
+	/*{"",	"sb-cpu",		10,	18}, */
         {"",    "sb-cpubars",   2,     17 },
 	/* {"",	"sb-moonphase",	18000,	17}, */
 	{"",	"sb-forecast",	18000,	5},
